@@ -14,8 +14,8 @@ know which bash does your machine use
 sudo which bash
 output example => /usr/bin/bash
 ```
-    make sure that path is the same on file you want to run if there is difference => replace the `path on file` with the `command output`  
-    ![Alt text](image.png)
+make sure that path is the same on file you want to run if there is difference => replace the `path on file` with the `command output`  
+![Alt text](image.png)
 
 ## How to run
 1) navigate to file -You want to run- path
