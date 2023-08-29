@@ -9,10 +9,11 @@ Available linux softwares till now is
 ## Prerequests :
 
 know which bash does your machine use
-    ```bash
-    sudo which bash
-    output example => /usr/bin/bash
-    ```
+
+```bash
+sudo which bash
+output example => /usr/bin/bash
+```
     make sure that path is the same on file you want to run if there is difference => replace the `path on file` with the `command output`  
     ![Alt text](image.png)
 
